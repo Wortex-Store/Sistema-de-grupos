@@ -1,6 +1,6 @@
 # Sistema-de-logs
 
-⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-logs/wiki/Sistema-de-logs) você pode consultar todas as informações sobre o sistema de logs.
+⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-grupos/wiki/Sistema-de-grupos) você pode consultar todas as informações sobre o sistema de logs.
 
 📲 **Contatos:**
 
