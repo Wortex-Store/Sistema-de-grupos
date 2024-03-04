@@ -1,4 +1,4 @@
-# Sistema-de-logs
+# Sistema de grupos
 
 ⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-grupos/wiki/Sistema-de-grupos) você pode consultar todas as informações sobre o sistema de logs.
 
